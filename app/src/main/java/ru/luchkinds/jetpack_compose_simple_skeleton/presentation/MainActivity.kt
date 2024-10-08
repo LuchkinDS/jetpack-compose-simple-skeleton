@@ -1,4 +1,4 @@
-package ru.luchkinds.jetpack_compose_simple_skeleton
+package ru.luchkinds.jetpack_compose_simple_skeleton.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
